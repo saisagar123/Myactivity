@@ -1,8 +1,8 @@
-
+package democlass;
 import java.util.*;
 public class Employee
 {
-public satic void main(String args[])
+public static void main(String args[])
 {
 System.out.println("1.Enter Data");
 System.out.println("2.Update Data");
